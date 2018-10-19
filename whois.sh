@@ -100,7 +100,7 @@ echo "Email :" $aemail
 echo ""
 echo "-----------------------TECHNICAL CONTACT--------------------"
 
-tname=$(grep ''Tech Name:' /tmp/tmp.tmp| cut -d: -f2-)
+tname=$(grep 'Tech Name:' /tmp/tmp.tmp| cut -d: -f2-)
 echo "Name :" $tname
 torg=$(grep 'Tech Organization:' /tmp/tmp.tmp| cut -d: -f2-)
 echo "Organization :" $torg
