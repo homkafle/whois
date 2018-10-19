@@ -4,13 +4,3 @@ Usage:
 ./whois.sh example.com
 
 
-Output: 
-
------------------------DOMAIN INFORMATION-------------------
-Domain :
-Registrar :
-Registerd On :
-Expires On :
-Updated On :
-Status :
-
