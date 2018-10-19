@@ -1,8 +1,10 @@
 #!/bin/bash
 #A script to gather whois record of a provided domain and parse it "
 #Author: Hom Kafle
-
 #October 18,2018
+
+#Usage: ./whois.sh example.com 
+
 
  echo "
 ********************************************************************
